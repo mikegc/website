@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Currie - Design, User experience and front end development</title>
-    <description>Michael Currie is a designer based in hampshire, UK. He enjoys researching, solving problems, and  building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
+    <title>Mike Currie - Design, User experience and front end development</title>
+    <description>Mike Currie is a designer based in hampshire, UK. He enjoys researching, solving problems, and  building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Dec 2014 16:25:08 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2014 16:25:08 +0000</lastBuildDate>
+    <link>http://currie.me.uk/</link>
+    <atom:link href="http://currie.me.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 09 Jan 2015 11:25:35 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2015 11:25:35 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -19,8 +19,8 @@
 &lt;p&gt;But for now, have a great new year!&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Dec 2014 11:02:04 +0000</pubDate>
-        <link>http://yourdomain.com/general/2014/12/30/happy-new-year.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/general/2014/12/30/happy-new-year.html</guid>
+        <link>http://currie.me.uk/general/2014/12/30/happy-new-year.html</link>
+        <guid isPermaLink="true">http://currie.me.uk/general/2014/12/30/happy-new-year.html</guid>
         
         
         <category>general</category>
