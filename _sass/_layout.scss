@@ -60,6 +60,10 @@
     }
 }
 
+.post h1 {
+    border-bottom: 1px solid #ccc;
+}
+
 .post-meta {
     color: lighten($text-color, 20);
 }

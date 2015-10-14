@@ -230,6 +230,9 @@ pre {
   .post-list h2 {
     display: inline; }
 
+.post h1 {
+  border-bottom: 1px solid #ccc; }
+
 .post-meta {
   color: #7d7d7d; }
 
