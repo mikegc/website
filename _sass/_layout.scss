@@ -39,30 +39,33 @@
 }
 
 // Home
-.home {
+.home, .post {
     padding-top: 12px;
-    //background: url('/images/door.jpeg') no-repeat center top;
-    //background-size: cover;
-    
-    h1 {
-        text-align: center;   
-    }
-    li {
-        text-align: center;   
-    }
+}
+.home h1, .home li {
+    text-align: center;
 }
 
 // Posts
+.post-title {
+    font-size: 2.25em;
+    font-weight: 600;
+}
+
 .post-list {
     list-style: none;
     margin: 0 0 12px 0;
     h2 {
-        display: inline;   
+        display: inline;
     }
 }
 
+.post-meta {
+    color: lighten($text-color, 20);
+}
+
 .feature-image {
-    width: 100%;   
+    width: 100%;
 }
 
 .page-content {

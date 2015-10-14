@@ -2,7 +2,7 @@
 title: Mike Currie - Design, User experience and front end development
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mike Currie is a designer based in hampshire, UK. He enjoys researching, solving problems, and  building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
+  Mike Currie is a experienced designer based in hampshire, UK. He enjoys researching, solving problems, and building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://currie.me.uk" # the base hostname & protocol for your site
 twitter_username: mikegc
@@ -11,5 +11,3 @@ linkedinn_username:  "mike-currie/b/856/186/"
 
 # Build settings
 markdown: kramdown
-
-gems: ['susy']

@@ -2,19 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Currie - Design, User experience and front end development</title>
-    <description>Mike Currie is a designer based in hampshire, UK. He enjoys researching, solving problems, and  building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
+    <description>Mike Currie is a experienced designer based in hampshire, UK. He enjoys researching, solving problems, and building experiences for people to use. He also enjoys playing ice hockey, weight lifting, DIY and the occasional board game.
 </description>
     <link>http://currie.me.uk/</link>
     <atom:link href="http://currie.me.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Jan 2015 11:25:35 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2015 11:25:35 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Wed, 14 Oct 2015 10:58:42 +0100</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2015 10:58:42 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Do not use HTML5 placeholders</title>
+        <description>&lt;p&gt;No one wants to fill in a your damn form! They have a goal at the end of the form, whether that is buying car insurance, a holiday or entering your food in a fitness tracker. This is why forms need to be clear and easy to use.&lt;/p&gt;
+
+&lt;p&gt;When placeholders were first available, I thought they would be great. They could give examples of what to enter in the form field and look aesthetically pleasing instead of just a blank white space. However, they have a number of disadvantages and I now avoid their usage.&lt;/p&gt;
+
+&lt;h1 id=&quot;reasons-not-use-placeholders&quot;&gt;Reasons not use placeholders&lt;/h1&gt;
+
+&lt;h3 id=&quot;disappearing-text&quot;&gt;1. Disappearing text&lt;/h3&gt;
+&lt;p&gt;When entering your information into the form field, the placeholder will disappear.&lt;/p&gt;
+
+&lt;h3 id=&quot;more-difficult-to-see-empty-fields&quot;&gt;2. More difficult to see empty fields&lt;/h3&gt;
+&lt;p&gt;Having text entered into a form field makes it more difficult to see what is completed and what is empty&lt;/p&gt;
+
+&lt;h3 id=&quot;styled-by-the-browser&quot;&gt;3. Styled by the browser&lt;/h3&gt;
+&lt;p&gt;Placeholders are styled by the browser, so there is no way to ‘improve’ them.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-to-do-instead&quot;&gt;What to do instead&lt;/h1&gt;
+&lt;p&gt;Placeholders were useful because you could show the formatting of the data that you wanted. So how can we achieve the same effect without using them.&lt;/p&gt;
+
+&lt;h3 id=&quot;clear-labels&quot;&gt;1. Clear labels&lt;/h3&gt;
+&lt;p&gt;You have a label for each input field (if you don’t, add one), make sure it is clear what you are asking for; users know what their name or phone number is. You can add an example to show formatting or for extra help.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-examples&quot;&gt;2. Use examples&lt;/h3&gt;
+&lt;p&gt;If your label to the field is not clear enough, then use an example above the field. The example will not disappear when the user starts entering their data, and if they do enter incorrect data which causes an error, the example is already there to help them see their mistake - there is no chance with a placeholder.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/user-centred-design/resources/patterns/dates.html&quot;&gt;https://www.gov.uk/service-manual/user-centred-design/resources/patterns/dates.html&lt;/a&gt;
+&lt;a href=&quot;http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php&quot;&gt;http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2015 13:00:00 +0100</pubDate>
+        <link>http://currie.me.uk/general/2015/10/14/placeholders.html</link>
+        <guid isPermaLink="true">http://currie.me.uk/general/2015/10/14/placeholders.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
     
       <item>
         <title>Happy new year!</title>
         <description>&lt;p&gt;For me 2014 has been full of Sass, Grunt, Bower, components, mobile and responsiveness. Outside of work it has been ice hockey, weight lifting, weddings, Malta, DIY and loads more!&lt;/p&gt;
 
-&lt;p&gt;Next year I plan to put some more meaningful stuff on my site. I have moved away from Wordpress to using Jekyll to generate static pages (it is still basic, but you coud call it MVP). The reason for this is I want something which I have more control over, and dont have to set up a load of stuff that I dont want to use.&lt;/p&gt;
+&lt;p&gt;Next year I plan to put some more meaningful stuff on my site. I have moved away from Wordpress to using Jekyll to generate static pages (it is still basic, but you could call it MVP). The reason for this is I want something which I have more control over, and dont have to set up a load of stuff that I don’t want to use.&lt;/p&gt;
 
 &lt;p&gt;But for now, have a great new year!&lt;/p&gt;
 </description>
