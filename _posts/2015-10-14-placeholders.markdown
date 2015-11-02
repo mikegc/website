@@ -5,7 +5,7 @@ date:   2015-10-14 12:00:00
 categories: General
 ---
 
-No one wants to fill in a your damn form! They have a goal at the end of the form, whether that is buying car insurance, a holiday or entering your food in a fitness tracker. This is why forms need to be clear and easy to use.
+No one wants to fill in a your form! They have a goal at the end of the form, whether that is buying car insurance, a holiday or entering your food in a fitness tracker. This is why forms need to be clear and easy to use.
 
 When placeholders were first available, I thought they would be great. They could give examples of what to enter in the form field and look aesthetically pleasing instead of just a blank white space. However, they have a number of disadvantages and I now avoid their usage.
 
@@ -31,4 +31,5 @@ If your label to the field is not clear enough, then use an example above the fi
 
 # References
 <https://www.gov.uk/service-manual/user-centred-design/resources/patterns/dates.html>
+
 <http://www.uxmatters.com/mt/archives/2013/02/dont-put-labels-inside-text-boxes-unless-youre-luke-w.php>

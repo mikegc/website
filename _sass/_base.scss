@@ -168,7 +168,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-    @include container(80em);
+    @include container(50em);
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
